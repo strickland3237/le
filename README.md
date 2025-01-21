@@ -9,5 +9,7 @@
 - [ ] 摄影
 - [ ] [le](https://leetcode.com/problems/merge-strings-alternately/description/?envType=study-plan-v2&envId=leetcode-75)
 - [ ] [技术摘抄](https://lianglianglee.com/)
+- [ ] 理财
+- [ ] 读书
 
 ---
