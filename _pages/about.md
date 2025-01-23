@@ -20,8 +20,7 @@ subtitle:
 **Announcements**: 
 - 开始行动就成功了一半！
 
-
-## To Do
+## To-Do
 - [markdwon syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [linux.do](https://linux.do/)
   
