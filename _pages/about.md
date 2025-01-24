@@ -20,10 +20,13 @@ subtitle:
 **Announcements** 
 - 开始行动就成功了一半！
 
-## TO-DO
+## READ
 - [markdwon syntax](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [linux.do](https://linux.do/)
-  
+- [weekly](https://github.com/ruanyf/weekly)
+
+
+## TO-DO
 ---
 
 - 摄影
@@ -31,6 +34,7 @@ subtitle:
 - [技术摘抄](https://lianglianglee.com/)
 - 理财
 - 读书
+- 素描
 
 ---
 
