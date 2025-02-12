@@ -15,5 +15,6 @@
 - [ ] 读书
 - [ ] 素描
 - [ ] 车
+- [ ] [quant](https://quant-wiki.com/basic/)
 
 ---
