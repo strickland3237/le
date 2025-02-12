@@ -36,6 +36,7 @@ subtitle:
 - 读书
 - 素描
 - [开车](https://www.zhihu.com/question/637181148)
+- [quant](https://quant-wiki.com/basic/)
 
 ---
 
